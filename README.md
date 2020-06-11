@@ -24,7 +24,7 @@ Breve ejercicio para probar la aplicación del estilo materialize en un formular
 
 1. Descarga o clona el repositorio
 ```sh
-$ git clonehttps://github.com/memematvaz/Cryptocurrency-API.git
+$ git clone https://memematvaz.github.io/form-validation-materialize-js.git
 ```
 2. Abre el proyecto en tu editor de codigo (Visual Sudio Code, Atom, Brackets...)
 
@@ -32,9 +32,7 @@ $ git clonehttps://github.com/memematvaz/Cryptocurrency-API.git
 
 ## Cómo funciona:
 
-Selecciona una moneda y una criptomoneda y la aplicación te devolverá como resultado el valor de esa criptomoneda, la variación de ese valor en el último día y la última fecha en la que fue modificado.
-
-Si la API no contiene información de la criptomoneda seleccionada te devolverá un mensaje de error con el contenido de texto "Prueba con otra criptomoneda"
+Puedes rellenar los campos del formulario y comprobar como funciona la validación.
 
 (https://memematvaz.github.io/form-validation-materialize/)
 
